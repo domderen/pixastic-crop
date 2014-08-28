@@ -1,0 +1,17 @@
+{
+  "name": "pixastic-crop",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bhaal275/pixastic-crop",
+  "authors": [
+    "bhaal275 <dominik.deren@windowslive.com>"
+  ],
+  "main": "dist/pixastic-crop.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
