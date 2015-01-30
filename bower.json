@@ -1,6 +1,6 @@
 {
   "name": "pixastic-crop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/bhaal275/pixastic-crop",
   "authors": [
     "bhaal275 <dominik.deren@windowslive.com>"
@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "pixastic-standalone": "*"
+    "pixastic-standalone-release": "1.0.0"
   }
 }
